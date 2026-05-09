@@ -1,6 +1,6 @@
 # ForIshita
 Open-source documentation for a special person navigating internship life away from home. Features include runtime support, debugging instructions for bad days, and emergency comfort patches.
-Overview: A carefully undocumented human running on low sleep, hidden strength, occasional overthinking, and pure determination. Designed to survive chaos, adapt to new environments, and still care deeply for people around her.
+
 ## System Requirements
 Minimum:
 - coffee/food
